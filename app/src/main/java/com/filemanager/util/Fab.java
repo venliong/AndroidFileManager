@@ -1,4 +1,4 @@
-package com.fileManager.util;
+package com.filemanager.util;
 
 import android.content.Context;
 import android.support.design.widget.FloatingActionButton;
@@ -9,7 +9,7 @@ import android.view.animation.AnimationUtils;
 import android.view.animation.Interpolator;
 import android.view.animation.ScaleAnimation;
 
-import com.fileManager.R;
+import com.filemanager.R;
 import com.gordonwong.materialsheetfab.AnimatedFab;
 
 /**

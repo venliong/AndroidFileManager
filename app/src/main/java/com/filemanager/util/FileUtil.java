@@ -1,4 +1,4 @@
-package com.fileManager.util;
+package com.filemanager.util;
 
 import android.content.ContentResolver;
 import android.content.Context;

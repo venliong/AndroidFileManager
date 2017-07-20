@@ -1,4 +1,4 @@
-package com.fileManager;
+package com.filemanager;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;

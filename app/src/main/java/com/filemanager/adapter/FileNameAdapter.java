@@ -1,4 +1,4 @@
-package com.fileManager.adapter;
+package com.filemanager.adapter;
 
 import android.content.Context;
 import android.content.DialogInterface;
@@ -16,8 +16,8 @@ import android.widget.Toast;
 
 import com.blankj.utilcode.utils.FileUtils;
 import com.blankj.utilcode.utils.TimeUtils;
-import com.fileManager.R;
-import com.fileManager.util.FileUtil;
+import com.filemanager.R;
+import com.filemanager.util.FileUtil;
 
 import java.io.File;
 import java.util.List;

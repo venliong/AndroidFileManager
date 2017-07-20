@@ -1,4 +1,4 @@
-package com.fileManager;
+package com.filemanager;
 
 import org.junit.Test;
 

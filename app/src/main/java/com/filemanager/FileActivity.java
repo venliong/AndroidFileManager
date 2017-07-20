@@ -1,4 +1,4 @@
-package com.fileManager;
+package com.filemanager;
 
 import android.content.DialogInterface;
 import android.content.Intent;
@@ -27,8 +27,8 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.balysv.materialripple.MaterialRippleLayout;
-import com.fileManager.util.ACache;
-import com.fileManager.util.Fab;
+import com.filemanager.util.ACache;
+import com.filemanager.util.Fab;
 import com.gordonwong.materialsheetfab.MaterialSheetFab;
 import com.umeng.analytics.MobclickAgent;
 import com.yalantis.guillotine.animation.GuillotineAnimation;

@@ -1,4 +1,4 @@
-package com.fileManager;
+package com.filemanager;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
